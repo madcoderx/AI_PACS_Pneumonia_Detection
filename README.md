@@ -17,10 +17,5 @@
 Chest X-ray Pneumonia Dataset
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-## Download Trained Model
-
-Download model.h5 from:
-https://drive.google.com/file/d/1AoCFbebetJoADEIs9AS8hy9bDH4ltGnb/view?usp=sharing
-
 ## Run
 python app.py
